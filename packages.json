@@ -20,6 +20,16 @@
     "subdir": "packages/Ropendal"
   },
   {
+    "package": "RsimdDispatch",
+    "url": "https://github.com/abiomix/abiomix-r-open",
+    "subdir": "packages/RsimdDispatch"
+  },
+  {
+    "package": "Rtinycc",
+    "url": "https://github.com/abiomix/abiomix-r-open",
+    "subdir": "packages/Rtinycc"
+  },
+  {
     "package": "htmxr",
     "url": "https://github.com/abiomix/abiomix-r-open",
     "subdir": "packages/htmxr"
