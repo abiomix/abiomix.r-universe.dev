@@ -1,0 +1,32 @@
+[
+  {
+    "package": "RBCFTools",
+    "url": "https://github.com/abiomix/abiomix-r-open",
+    "subdir": "packages/RBCFTools"
+  },
+  {
+    "package": "Rducks",
+    "url": "https://github.com/abiomix/abiomix-r-open",
+    "subdir": "packages/Rducks"
+  },
+  {
+    "package": "Rminibwa",
+    "url": "https://github.com/abiomix/abiomix-r-open",
+    "subdir": "packages/Rminibwa"
+  },
+  {
+    "package": "Ropendal",
+    "url": "https://github.com/abiomix/abiomix-r-open",
+    "subdir": "packages/Ropendal"
+  },
+  {
+    "package": "htmxr",
+    "url": "https://github.com/abiomix/abiomix-r-open",
+    "subdir": "packages/htmxr"
+  },
+  {
+    "package": "s7contract",
+    "url": "https://github.com/abiomix/abiomix-r-open",
+    "subdir": "packages/s7contract"
+  }
+]
