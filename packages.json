@@ -28,5 +28,20 @@
     "package": "s7contract",
     "url": "https://github.com/abiomix/abiomix-r-open",
     "subdir": "packages/s7contract"
+  },
+  {
+    "package": "httpuv",
+    "url": "https://github.com/abiomix/abiomix-r-open",
+    "subdir": "packages/httpuv"
+  },
+  {
+    "package": "STITCH",
+    "url": "https://github.com/abiomix/abiomix-r-open",
+    "subdir": "packages/STITCH"
+  },
+  {
+    "package": "QUILT",
+    "url": "https://github.com/abiomix/abiomix-r-open",
+    "subdir": "packages/QUILT"
   }
 ]
