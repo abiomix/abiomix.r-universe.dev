@@ -1,57 +1,7 @@
 [
   {
-    "package": "RBCFTools",
-    "url": "https://github.com/abiomix/abiomix-r-open",
-    "subdir": "packages/RBCFTools"
-  },
-  {
-    "package": "Rducks",
-    "url": "https://github.com/abiomix/abiomix-r-open",
-    "subdir": "packages/Rducks"
-  },
-  {
-    "package": "Rminibwa",
-    "url": "https://github.com/abiomix/abiomix-r-open",
-    "subdir": "packages/Rminibwa"
-  },
-  {
-    "package": "Ropendal",
-    "url": "https://github.com/abiomix/abiomix-r-open",
-    "subdir": "packages/Ropendal"
-  },
-  {
-    "package": "RsimdDispatch",
-    "url": "https://github.com/abiomix/abiomix-r-open",
-    "subdir": "packages/RsimdDispatch"
-  },
-  {
-    "package": "Rtinycc",
-    "url": "https://github.com/abiomix/abiomix-r-open",
-    "subdir": "packages/Rtinycc"
-  },
-  {
-    "package": "htmxr",
-    "url": "https://github.com/abiomix/abiomix-r-open",
-    "subdir": "packages/htmxr"
-  },
-  {
-    "package": "s7contract",
-    "url": "https://github.com/abiomix/abiomix-r-open",
-    "subdir": "packages/s7contract"
-  },
-  {
     "package": "httpuv",
     "url": "https://github.com/abiomix/abiomix-r-open",
     "subdir": "packages/httpuv"
-  },
-  {
-    "package": "STITCH",
-    "url": "https://github.com/abiomix/abiomix-r-open",
-    "subdir": "packages/STITCH"
-  },
-  {
-    "package": "QUILT",
-    "url": "https://github.com/abiomix/abiomix-r-open",
-    "subdir": "packages/QUILT"
   }
 ]
